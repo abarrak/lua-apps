@@ -1,2 +1,2 @@
 # lua-apps
-Learning the Lua Language
+Learning the Lua Programming Language.
